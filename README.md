@@ -31,7 +31,7 @@ Last-mile delivery startup incubated at V2V (ENSIA).
 
 ## Tech stack
 
-**AI & LLMs:** RAG · LLM fine-tuning · LLM agents & tool calling · prompt engineering · quantization · Hugging Face · PyTorch · reinforcement learning · computer vision
+**AI & LLMs:** RAG · LLM fine-tuning · LLM agents & tool calling · prompt engineering · quantization · Hugging Face · PyTorch · reinforcement learning · federated learning · computer vision
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,ts,java,go,cpp,pytorch&perline=12" alt="Python, TypeScript, Java, Go, C++, PyTorch" />
@@ -45,6 +45,6 @@ Last-mile delivery startup incubated at V2V (ENSIA).
 
 ## Currently
 
-- Finishing my engineering degree at ENSIA; final-year project: **last-mile delivery optimization with reinforcement learning**
+- Finishing my engineering degree at ENSIA; final-year project: **federated learning for Wi-Fi intrusion detection against spoofing attacks**
 - Open to **AI / ML engineering** opportunities
 - Languages: Arabic (native), English, French
