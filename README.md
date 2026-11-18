@@ -31,7 +31,7 @@ Last-mile delivery startup incubated at V2V (ENSIA).
 
 ## Tech stack
 
-**AI & LLMs:** RAG · LLM fine-tuning · LLM agents & tool calling · prompt engineering · quantization · Hugging Face · PyTorch · reinforcement learning · federated learning · computer vision
+**AI & LLMs:** RAG · LLM fine-tuning · agentic AI · prompt engineering · quantization · Hugging Face · PyTorch · reinforcement learning · federated learning · computer vision
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,ts,java,go,cpp,pytorch&perline=12" alt="Python, TypeScript, Java, Go, C++, PyTorch" />
